@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am an aspiring DevOps Engineer dedicated to building <br>efficient, automated, and scalable infrastructure. <br>I am constantly learning, exploring new technologies, <br>and applying best practices to solve real-world problems <br>in the cloud space.<br><br>
+ I am an aspiring DevOps Engineer dedicated to building efficient, automated, and scalable infrastructure. I am constantly learning, exploring new technologies,and applying best practices to solve real-world problems in the cloud space.<br><br>
 
 
 # 💻 Tech Stack:
