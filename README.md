@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Danish Sayyed! 👋
 
-<!--
-**DanishSayyed06/DanishSayyed06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me
+I am an aspiring DevOps Engineer dedicated to building efficient, automated, and scalable infrastructure. I am constantly learning, exploring new technologies, and applying best practices to solve real-world problems in the cloud space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Working On
+90 Days of DevOps Challenge: I am currently documenting my daily progress, lessons, and hands-on labs as I dive deep into DevOps principles and automation.
+
+My Skill Set
+Certifications: RHCSA, AWS Solutions Architect – Associate
+
+Systems: Linux (RHEL/Ubuntu)
+
+Tools & Languages: Python, Bash Shell Scripting, Git, GitHub Actions, AWS Cloud Services
+
+Creative Tech: Final Cut Pro (Video/Graphic production)
+
+Important Repositories
+90-Days-of-DevOps: Tracking my daily learning and scripting exercises.
+
+Let's Connect
+LinkedIn: [DANISH SAYYED]
+
+Email: [danishsayyed_786@gmail.com]
